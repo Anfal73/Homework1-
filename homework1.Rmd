@@ -24,6 +24,7 @@ library(ggrepel)
 
 ##Exercises
 52,519
+variables : 7
 `1.
 
 (4 points)
