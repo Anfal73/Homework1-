@@ -23,7 +23,7 @@ library(ggrepel)
 
 
 ##Exercises
-
+52,519
 `1.
 
 (4 points)
